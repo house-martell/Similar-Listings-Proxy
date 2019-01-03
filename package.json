@@ -1,0 +1,19 @@
+{
+  "name": "similar-proxy-server",
+  "version": "1.0.0",
+  "description": "proxy server to render other sections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/house-martell/Similar-Listings-Proxy.git"
+  },
+  "author": "aliu1212",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/house-martell/Similar-Listings-Proxy/issues"
+  },
+  "homepage": "https://github.com/house-martell/Similar-Listings-Proxy#readme"
+}
