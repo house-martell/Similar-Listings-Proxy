@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/house-martell/Similar-Listings-Proxy/issues"
   },
-  "homepage": "https://github.com/house-martell/Similar-Listings-Proxy#readme"
+  "homepage": "https://github.com/house-martell/Similar-Listings-Proxy#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
 }
